@@ -81,7 +81,6 @@ Real-time updates are handled using `Flow` and `callbackFlow`.
 ---
 
 ##Contribution
--*Developed by*: Shashanka
--*Testing, Feedback & Feature Recommendations*: Jijnashu
-![Dashboard](screenshots/dashboard.png)
-![Stats](screenshots/stats.png)
+-**Developed by**: Shashanka
+-**Testing, Feedback & Feature Recommendations**: Jijnashu
+
