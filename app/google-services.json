@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725220820097",
+    "project_id": "ffcs-club-app",
+    "storage_bucket": "ffcs-club-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725220820097:android:7c6a49f6fde594b13a7980",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcn_qR4LS9j8uZ5LqUyqpDNLPGpIObCz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725220820097:android:7b89074b91b91a303a7980",
+        "android_client_info": {
+          "package_name": "ffcs_club12.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcn_qR4LS9j8uZ5LqUyqpDNLPGpIObCz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
